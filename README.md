@@ -1,4 +1,4 @@
-# Sitio Web personal d clases de Danza y Entrenamiento funcional 
+# Sitio Web personal de clases de Danza y Entrenamiento funcional 
 
 Este es un proyecto de un sitio web  que ofrece clases de entrenamiento funcional y danza. El diseño es responsivo, adaptado para desktop, tablet y dispositivos móviles, y está construido utilizando HTML, SASS y Git para control de versiones.
 
