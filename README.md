@@ -10,7 +10,7 @@ Este es un proyecto de un sitio web  que ofrece clases de entrenamiento funciona
 - **Entrenamiento Funcional:** Secciones para Clases Grupales y Clases Personalizadas.
 - **Danza:** Dividida en categorías según edades y estilos.
 - **About Me:** Información sobre mi  y objetivos, con una imagen de fondo temática.
-  Incluye enlaces a WhatsApp, correo electrónico e Instagram, además de un QR para acceso rápido.
+  Incluye enlaces a WhatsApp, correo electrónico e Instagram.
 
 ---
 
