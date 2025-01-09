@@ -1,0 +1,37 @@
+// Variables para breakpoints
+$breakpoint-mobile: 480px;  // Móviles pequeños
+$breakpoint-tablet: 768px;  // Tablets
+$breakpoint-desktop: 1024px; // Escritorios
+
+
+// Media query para mobile\
+
+@media (max-width: $breakpoint-mobile) {
+    .gym-image {
+      width: 90%; // Reduce más el tamaño en móviles
+    }
+  
+    
+    }
+  
+    
+  .header, .footer {
+      padding: 10px;
+    }
+  
+    
+    
+  .footer-contact {
+      
+   
+  flex-direction: column;
+      gap: 5px;
+    }
+
+  
+    .footer-contact {
+      flex-direction: column;
+      gap: 5px;
+    }
+  
+  
